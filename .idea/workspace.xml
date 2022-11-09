@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2909d82a-f12b-4b2a-9cd1-b65596d25b72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_education.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example6.java" afterDir="false" />
-    </list>
+    <list default="true" id="2909d82a-f12b-4b2a-9cd1-b65596d25b72" name="Changes" comment="add &quot; &quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,6 +117,21 @@
       <option name="presentableId" value="Default" />
       <updated>1667968903306</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1667969977399</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667969977401</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add &quot; &quot;">
+      <created>1667970021803</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667970021804</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,15 +145,9 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/lr1/Example6.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="add &quot; &quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="add &quot; &quot;" />
   </component>
 </project>
