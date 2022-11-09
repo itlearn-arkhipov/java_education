@@ -22,5 +22,6 @@ public class Example6 {
         System.out.println("Отчество: " + name2);
         in.close();
 
+
     }
 }
